@@ -1,2 +1,3 @@
-# simple-file-explorer
+# simple File Browser example
+
 Created with CodeSandbox
